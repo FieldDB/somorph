@@ -1,6 +1,10 @@
 SoMorph
 =======
 
+Somali Morphological Analysis
+-----------------------------
+
+
 I am in the process of cleaning up some code for the first public 
 release of SoMorph, which will contain a morphological analyzer 
 and generator for the Somali language, built on XFST. If anyone is
