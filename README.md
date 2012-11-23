@@ -12,3 +12,9 @@ interested in contributing, get in touch!
 
 The analyzer is already in use at http://qaamuus.so, a free, online 
 Somali-English-Somali dictionary, so if you can't wait, take a look there!
+
+
+Updates
+-------
+
+Acquiring more resources. Coverage improving!
